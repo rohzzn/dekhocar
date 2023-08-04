@@ -1,7 +1,5 @@
 ![image](https://github.com/rohzzn/dekhocar/assets/47408756/4b1ac8f3-2137-4265-9d15-08065b7011cc)
 
-# Dekho Car - A Rent Car Website
-
 ## Introduction
 
 Dekho Car is a modern and user-friendly rent car website built using React, Next.js 13, TypeScript, Tailwind CSS, and RapidAPI. It allows users to easily find and rent cars for their travel needs.
