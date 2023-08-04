@@ -1,4 +1,4 @@
-![image](https://github.com/rohzzn/dekhocar/assets/47408756/c55a6778-d5ba-4423-b9b1-89ec5abc30ec)
+![image](https://github.com/rohzzn/dekhocar/assets/47408756/4b1ac8f3-2137-4265-9d15-08065b7011cc)
 
 # Dekho Car - A Rent Car Website
 
